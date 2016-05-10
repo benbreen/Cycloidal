@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"",
+	"description":	{
+		"":	"Creates Cycloidal Gears used in Horology"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"66d2d8af-72ad-4475-9c90-14fb65f1f864",
+	"version":	"",
+	"runOnStartup":	false,
+	"sourcewindows":	"Cycloidal Gear.vcxproj",
+	"sourcemac":	"Cycloidal Gear.xcodeproj"
+}
