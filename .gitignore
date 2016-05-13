@@ -1,5 +1,6 @@
 debug/*
 release/*
+packages/*
 .vs/*
 *.db
 *.opendb
